@@ -15,13 +15,26 @@ module.exports = {
       options: {
         navigation: [
           {
-            title: `Blog`,
-            slug: `/blog`,
+            title: `Builds`,
+            slug: `/tags/builds`,
           },
           {
-            title: `About`,
-            slug: `/about`,
+            title: `Preview`,
+            slug: `/tags/preview`,
           },
+          {
+            title: `Hosting`,
+            slug: `/tags/hosting`,
+          },
+          {
+            title: `Functions`,
+            slug: `/tags/functions`,
+          },
+          {
+            title: `General`,
+            slug: `/tags/general`,
+          },
+         
         ],
         externalLinks: [
           {
